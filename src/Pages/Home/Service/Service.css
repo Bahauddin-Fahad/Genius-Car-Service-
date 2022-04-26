@@ -1,0 +1,13 @@
+.service-details {
+  border: 2px solid rgba(0, 0, 0, 0.461);
+  border-radius: 5px;
+  padding: 20px;
+  text-align: center;
+}
+.service-details p {
+  text-align: justify;
+  font-weight: 500;
+}
+.service-details img {
+  margin: auto;
+}
